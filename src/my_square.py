@@ -6,6 +6,8 @@ def my_square(x):
 	return (x ** 2)
 
 def add(a,b):
+	"""uses the * operator
+	"""
 	return a+b
 
 print(my_square(5))
